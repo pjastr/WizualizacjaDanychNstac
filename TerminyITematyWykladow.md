@@ -10,4 +10,4 @@ Orientacyjne tematy i terminy wykładów:
 
 26.05.2019 -  mathplotlib, seaborn.
 
-16.06.2019 - zaliczenie wykładu. Godzin do ustalenia (najlepiej o 11:30).
+16.06.2019 - ew. zerówka. Godzin do ustalenia (najlepiej o 11:30).
